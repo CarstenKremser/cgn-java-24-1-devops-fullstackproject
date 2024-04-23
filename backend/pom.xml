@@ -48,6 +48,11 @@
             <scope>test</scope>
             <version>4.12.6</version>
         </dependency>
+        <dependency>
+            <groupId>de.neuefische.java</groupId>
+            <artifactId>spring-boot-starter-fallback-page</artifactId>
+            <version>1.0.0</version>
+        </dependency>
     </dependencies>
 
     <build>
