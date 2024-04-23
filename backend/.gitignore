@@ -32,10 +32,10 @@ build/
 .vscode/
 
 ### Maven ###
-./mvn/
+.mvn/
 /mvnw
 /mvnw.cmd
 
 ### other stuff ###
-aplication-secrets.properties
-aplication-secret.properties
+**/application-secrets.properties
+**/application-secret.properties
